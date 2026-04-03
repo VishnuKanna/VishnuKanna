@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Vishnu kanna J , I am a highly skilled Java Developer with 4+ years of expertise in end-to-end software development, testing, and optimization. Proficient in Java ,spring boot ,DB2,MySQL, Oracle , Hibernate,jenkins,K8S,Docker,CI/CD,Version control tools. I am committed to collaborative teamwork and delivering quality solutions within defined timelines. I look forward to discussing how my skills align with your team's needs.
+I am Vishnu kanna J , I am a highly skilled Java Developer with 6+ years of expertise in end-to-end software development, testing, and optimization. Proficient in Java ,spring boot ,DB2,MySQL, Oracle , Hibernate,jenkins,K8S,Docker,CI/CD,Version control tools. I am committed to collaborative teamwork and delivering quality solutions within defined timelines. I look forward to discussing how my skills align with your team's needs.
 
 
 ## 🌐 Socials:
